@@ -1,0 +1,14 @@
+int i,j,a,k,l;
+l=4;
+for(i=1;l>i;i=i+1)
+{
+write i;
+for(j=(0);i>j;j=(j+1))
+{
+write j;
+j=j+1*2;
+};
+};
+write a;
+write j;
+write l;
